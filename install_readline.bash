@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Before this  you need to install 42_wizzard  git hub : https://github.com/0xShady/42_wizzard
+
 42 -c
 
 42-wizzard-brew 
